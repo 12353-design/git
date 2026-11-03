@@ -19,7 +19,8 @@ out/
 *.pem
 *.key
 
-# 编辑器与系统
+# 工具与编辑器
+.workbuddy/
 .vscode/
 .idea/
 .DS_Store
